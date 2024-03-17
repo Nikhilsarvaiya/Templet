@@ -1,0 +1,89 @@
+$flaticon_radha_krishna_temple-font: "flaticon_radha_krishna_temple";
+
+@font-face {
+    font-family: $flaticon_radha_krishna_temple-font;
+    src: url("./flaticon_radha_krishna_temple.ttf?dcccb83f7c97e54b352f2ce7b430e50e") format("truetype"),
+url("./flaticon_radha_krishna_temple.woff?dcccb83f7c97e54b352f2ce7b430e50e") format("woff"),
+url("./flaticon_radha_krishna_temple.woff2?dcccb83f7c97e54b352f2ce7b430e50e") format("woff2"),
+url("./flaticon_radha_krishna_temple.eot?dcccb83f7c97e54b352f2ce7b430e50e#iefix") format("embedded-opentype"),
+url("./flaticon_radha_krishna_temple.svg?dcccb83f7c97e54b352f2ce7b430e50e#flaticon_radha_krishna_temple") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_radha_krishna_temple !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_radha_krishna_temple-map: (
+    "phone-call": "\f101",
+    "email": "\f102",
+    "login": "\f103",
+    "stamped": "\f104",
+    "donation": "\f105",
+    "diwali-lamp": "\f106",
+    "kalasha": "\f107",
+    "verified": "\f108",
+    "email-1": "\f109",
+    "user-experience": "\f10a",
+    "crowd-of-users": "\f10b",
+    "leadership": "\f10c",
+    "right-arrow": "\f10d",
+    "viber": "\f10e",
+    "mail": "\f10f",
+    "location": "\f110",
+);
+
+.flaticon-phone-call:before {
+    content: map-get($flaticon_radha_krishna_temple-map, "phone-call");
+}
+.flaticon-email:before {
+    content: map-get($flaticon_radha_krishna_temple-map, "email");
+}
+.flaticon-login:before {
+    content: map-get($flaticon_radha_krishna_temple-map, "login");
+}
+.flaticon-stamped:before {
+    content: map-get($flaticon_radha_krishna_temple-map, "stamped");
+}
+.flaticon-donation:before {
+    content: map-get($flaticon_radha_krishna_temple-map, "donation");
+}
+.flaticon-diwali-lamp:before {
+    content: map-get($flaticon_radha_krishna_temple-map, "diwali-lamp");
+}
+.flaticon-kalasha:before {
+    content: map-get($flaticon_radha_krishna_temple-map, "kalasha");
+}
+.flaticon-verified:before {
+    content: map-get($flaticon_radha_krishna_temple-map, "verified");
+}
+.flaticon-email-1:before {
+    content: map-get($flaticon_radha_krishna_temple-map, "email-1");
+}
+.flaticon-user-experience:before {
+    content: map-get($flaticon_radha_krishna_temple-map, "user-experience");
+}
+.flaticon-crowd-of-users:before {
+    content: map-get($flaticon_radha_krishna_temple-map, "crowd-of-users");
+}
+.flaticon-leadership:before {
+    content: map-get($flaticon_radha_krishna_temple-map, "leadership");
+}
+.flaticon-right-arrow:before {
+    content: map-get($flaticon_radha_krishna_temple-map, "right-arrow");
+}
+.flaticon-viber:before {
+    content: map-get($flaticon_radha_krishna_temple-map, "viber");
+}
+.flaticon-mail:before {
+    content: map-get($flaticon_radha_krishna_temple-map, "mail");
+}
+.flaticon-location:before {
+    content: map-get($flaticon_radha_krishna_temple-map, "location");
+}

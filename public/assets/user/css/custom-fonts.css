@@ -1,0 +1,74 @@
+@font-face {
+    font-family: "flaticon_radha_krishna_temple";
+    src: url("../fonts/flaticon_radha_krishna_temple.ttf?30567e6df66900c5cf133ef8ca05165d") format("truetype"),
+        url("../fonts/flaticon_radha_krishna_temple.woff?30567e6df66900c5cf133ef8ca05165d") format("woff"),
+        url("../fonts/flaticon_radha_krishna_temple.woff2?30567e6df66900c5cf133ef8ca05165d") format("woff2"),
+        url("../fonts/flaticon_radha_krishna_temple.eot?30567e6df66900c5cf133ef8ca05165d#iefix") format("embedded-opentype"),
+        url("../fonts/flaticon_radha_krishna_temple.svg?30567e6df66900c5cf133ef8ca05165d#flaticon_radha_krishna_temple") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_radha_krishna_temple !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-phone-call:before {
+    content: "\f101";
+}
+.flaticon-email:before {
+    content: "\f102";
+}
+.flaticon-login:before {
+    content: "\f103";
+}
+.flaticon-stamped:before {
+    content: "\f104";
+}
+.flaticon-donation:before {
+    content: "\f105";
+}
+.flaticon-diwali-lamp:before {
+    content: "\f106";
+}
+.flaticon-kalasha:before {
+    content: "\f107";
+}
+.flaticon-verified:before {
+    content: "\f108";
+}
+.flaticon-email-1:before {
+    content: "\f109";
+}
+.flaticon-user-experience:before {
+    content: "\f10a";
+}
+.flaticon-crowd-of-users:before {
+    content: "\f10b";
+}
+.flaticon-leadership:before {
+    content: "\f10c";
+}
+.flaticon-right-arrow:before {
+    content: "\f10d";
+}
+.flaticon-viber:before {
+    content: "\f10e";
+}
+.flaticon-mail:before {
+    content: "\f10f";
+}
+.flaticon-location:before {
+    content: "\f110";
+}
+.flaticon-moon:before {
+    content: "\f111";
+}
+.flaticon-sunrise:before {
+    content: "\f112";
+}

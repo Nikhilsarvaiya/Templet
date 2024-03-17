@@ -1,0 +1,1 @@
+<a href="{{ $route }}" class="btn btn-icon btn-outline-brand btn-sm" title="Edit details"><i class="la la-edit"></i></a>&nbsp;

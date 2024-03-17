@@ -1,0 +1,41 @@
+/* =================== panditji availability css start ====================== */
+
+.panditji-checkbox{
+    margin: 0 12px 0 0;
+}
+.custom-style-add{
+    margin-top: 30px;
+}
+
+.date-filter-sly{
+    margin-right: 35px;
+}
+
+.filterBy{
+    margin-top: 25px;
+}
+
+.error{
+    color: #fd397a;
+}
+
+.blocked-radio {
+    display: flex;
+}
+
+.blocked-radio-btn {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+
+.blocked-radio-top {
+    top: 30px;
+}
+
+.slot-selection-checkbox {
+    display: contents;
+}
+
+
+/* =================== panditji availability css end ====================== */
